@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SudattaMondal
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning how to use Tensorflow better
-- 💞️ I’m looking to collaborate on ML codes if interested :)
+- 👋 Hi, I’m @SudattaMondal.
+- 👀 I’m currently a 2nd year M.Sc IT student, who wishes to pursue a career in ML or AI.
+- 🌱 I’m a person who is driven by hard-work and success
+- 💞️ I’m looking for internships in my field to further my experience!
 - 📫 How to reach me : https://www.linkedin.com/in/sudattamondal2401/
 
 <!---
