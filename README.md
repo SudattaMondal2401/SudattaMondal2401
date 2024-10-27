@@ -2,7 +2,6 @@
 - 👀 I’m currently a M.Sc IT graduate, who wishes to pursue a research career in ML.
 - 🌱 I’m a person who is driven by hard-work and success
 - 💞️ I’m looking for internships and research projects in my field to further my experience!
-- 📫 How to reach me : https://www.linkedin.com/in/sudattamondal2401/
 
 <!---
 SudattaMondal2401/SudattaMondal2401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
