@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SudattaMondal.
-- 👀 I’m currently a 2nd year M.Sc IT student, who wishes to pursue a career in ML or AI.
+- 👀 I’m currently a M.Sc IT graduate, who wishes to pursue a research career in ML.
 - 🌱 I’m a person who is driven by hard-work and success
-- 💞️ I’m looking for internships in my field to further my experience!
+- 💞️ I’m looking for internships and research projects in my field to further my experience!
 - 📫 How to reach me : https://www.linkedin.com/in/sudattamondal2401/
 
 <!---
